@@ -1,3 +1,5 @@
+> **Generated from [MGT-Insurance/claude-plugins-main](https://github.com/MGT-Insurance/claude-plugins-main). Don't commit here.** Open pull requests in that repository. The promote workflow overwrites this repository, so a direct commit is lost.
+
 # MGT Insurance plugins for Claude
 
 This repository is the MGT Insurance plugin marketplace for Claude Code and Claude. Each plugin lives in its own folder under `plugins/`.
