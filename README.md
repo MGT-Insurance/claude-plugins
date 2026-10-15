@@ -14,6 +14,6 @@ claude plugin marketplace add MGT-Insurance/claude-plugins
 
 | Plugin | Install | Description |
 |---|---|---|
-| [`mgt-quoting`](plugins/mgt-quoting) | `claude plugin install mgt-quoting@mgt-insurance` | Draft MGT commercial insurance quotes from Claude. |
+| [`mgt-quoting`](plugins/mgt-quoting) | `claude plugin install mgt-quoting@mgt-insurance` | For insurance agents: quote MGT small-business commercial insurance from Claude. |
 
 Each plugin's README covers its install, update, and data-handling details.
