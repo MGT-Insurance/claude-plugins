@@ -2,7 +2,7 @@
   "mcpServers": {
     "mgt-quoting": {
       "type": "http",
-      "url": "https://mcp.mgtinsurance.ai/api/typescript-tools/mcp",
+      "url": "https://mcp.mgtinsurance.ai/api/external/mcp",
       "oauth": {
         "clientId": "uMMqJMAYSADCF3BY9yJqHlzpb1tbNV17",
         "callbackPort": 8090
